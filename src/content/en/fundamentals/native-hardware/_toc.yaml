@@ -9,6 +9,8 @@ toc:
       path: /web/fundamentals/native-hardware/device-orientation/
     - title: Recording Audio from the User
       path: /web/fundamentals/native-hardware/recording-audio/
+    - title: Recording Video from the User
+      path: /web/fundamentals/native-hardware/recording-video/
     - title: Capturing an Image from the User
       path: /web/fundamentals/native-hardware/capturing-images/
     - title: Making Fullscreen Experiences
